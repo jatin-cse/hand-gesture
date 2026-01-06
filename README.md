@@ -59,15 +59,25 @@ py -3.11 hand_gesture.py
 | ✌ Two fingers | 2      |
 | 🖐 Open hand   | 5      |
 ```
-##🔹 Learning Outcomes
+---
+
+## 🔹 Learning Outcomes
 -Basics of computer vision
 -Hand landmark detection
 -Finger counting logic
 -Real-time webcam processing
-##🔹 Future Scope
+
+---
+
+## 🔹 Future Scope
 -Gesture-based volume control
 -Rock Paper Scissors game
 -Gesture-controlled mouse
-##Author
+
+---
+
+## 🔹 Author
+
 Jatin
 ⭐ Star the repository if you like the project!
+---
