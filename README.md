@@ -51,13 +51,14 @@ py -3.11 hand_gesture.py
 ```
 4. Press Q to exit the camera window.
 ##🔹 Supported Gestures
-
-| Gesture       | Result |
-| ------------- | ------ |
+```
+| Gesture        | Result |
+| -------------  | ------ |
 | ✊ Fist        | 0      |
 | ☝ One finger  | 1      |
 | ✌ Two fingers | 2      |
-| 🖐 Open hand  | 5      |
+| 🖐 Open hand   | 5      |
+```
 ##🔹 Learning Outcomes
 -Basics of computer vision
 -Hand landmark detection
